@@ -1,3 +1,83 @@
+# Post-mortem log file analysis with Docker ELK stack
+
+The aim of this project is to use the ELK stack to do provide you tooling for analysing the log files in an offline-manner. 
+
+## Use-case
+
+After a crash you have been sent MBs of log files from a customer. At the customer side you don't have a log analyse tool or you aren't allowed to access it. So you are stuck with the plain log files. 
+
+## How does it work?
+
+LogStash parses the logfiles using a Grok filter and sends the entries to the ElasticSearch instance.
+Thus you can create queries, visualisations and dashboards in Kibana to visualise the log file content. 
+
+``` puml
+hide footbox
+Actor You 
+Participant LogStash
+Participant ElasticSearch
+Participant Kibana
+
+
+==Parsing==
+LogStash -> LogStash : reads the log files
+LogStash -> LogStash : parses the log files using 'Grok'
+LogStash -> ElasticSearch : persists parsed logs
+
+==Analysing==
+You -> Kibana : work with 
+Kibana -> ElasticSearch : reads entries
+Kibana <- ElasticSearch : 
+Kibana -> You : provides visualisations/dashboards
+
+```
+
+
+## Quickstart
+
+1. Checkout the project
+2. Place your log files at `./example-logs` (an example is provided)
+3. Fine tune the  grok-pattern in  `./logstash/pipeline/logstash.conf` (an example for the example-log is provided)
+4. Invoke `docker-compose build`
+5. Invoke `docker-compose up -d` to start the Docker containers
+6. Open Kibana at `http://localhost:5601`
+7. Create a Kibana index manually at `Management/Index Patterns/`
+8. Analyse your data 
+
+
+## TODOs
+* support multline-stacktraces in the logfiles
+  * https://discuss.elastic.co/t/using-logstash-to-analyse-log4j-log-files/44914
+  * https://blog.lanyonm.org/articles/2015/12/29/log-aggregation-log4j-spring-logstash.html
+  * https://stackoverflow.com/questions/37931563/what-should-be-the-logstash-grok-filter-for-this-log4j-log
+  * https://sematext.com/blog/handling-stack-traces-with-logstash/
+  * https://stackoverflow.com/questions/19856316/logstash-multiline-filter-configuration-and-java-exceptions
+
+* create the Kibana-index automatically - [see](#via-the-kibana-web-ui)
+* support multiple patterns using [Logstash-multiple pipelines](https://www.elastic.co/blog/logstash-multiple-pipelines) and [type filters](https://sematext.com/blog/getting-started-with-logstash/)
+* provide some default filters and visualisations for Kibana
+* allow to persist user-created filters/visualisations
+
+## Further resources
+
+### Grok-Pattern
+* [Grok filter plugin](https://www.elastic.co/guide/en/logstash/current/plugins-filters-grok.html)
+* [Default patterns for grok](https://github.com/logstash-plugins/logstash-patterns-core/blob/master/patterns/grok-patterns)
+* Grok debugger: [Grok constructor](grokconstructor.appspot.com), [Grok debugger](http://grokdebug.herokuapp.com)
+
+
+
+## Troubleshooting
+* if an entry has the `_grokparsefailure` tag the pattern did not match correctly. Use grok debuggers to check your pattern! 
+* or have a look at the log files of logstash `docker logs dockerelk_logstash_1 -f` or
+`docker exec -t -i dockerelk_logstash_1 /bin/bash`
+
+
+## Trademark
+
+This setup of ELK 6.2.3 is based on https://github.com/deviantony/docker-elk/
+
+
 # Docker ELK stack
 
 [![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

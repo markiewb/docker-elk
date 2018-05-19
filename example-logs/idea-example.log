@@ -1,0 +1,913 @@
+2018-04-23 09:00:41,153 [   9584]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 8 classes 
+2018-04-23 09:00:41,154 [   9585]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.webflow loaded 8 classes 
+2018-04-23 09:00:41,154 [   9585]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.extensions loaded 7 classes 
+2018-04-23 09:00:41,154 [   9585]   INFO - llij.ide.plugins.PluginManager - com.intellij.dsm loaded 7 classes 
+2018-04-23 09:00:41,154 [   9585]   INFO - llij.ide.plugins.PluginManager - com.intellij.appengine loaded 7 classes 
+2018-04-23 09:00:41,154 [   9585]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.data loaded 6 classes 
+2018-04-23 09:00:41,154 [   9585]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.ws loaded 6 classes 
+2018-04-23 09:00:41,154 [   9585]   INFO - llij.ide.plugins.PluginManager - Key Promoter X loaded 6 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - FrameSwitcher loaded 6 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - de.imgruntw.plugin.datetimeconverter loaded 6 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 6 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.intellij.cdi loaded 5 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.dubreuia loaded 5 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 5 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 5 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.view loaded 5 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - Jetty loaded 4 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - tslint loaded 4 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.intellij.vaadin loaded 4 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.mvc loaded 4 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 4 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.intellij.guice loaded 3 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.security loaded 3 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.intellij.persistence loaded 3 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.batch loaded 3 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 3 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.integration loaded 3 classes 
+2018-04-23 09:00:41,155 [   9586]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 2 classes 
+2018-04-23 09:00:41,156 [   9587]   INFO - llij.ide.plugins.PluginManager - com.github.b3er.idea.plugins.arc.browser loaded 2 classes 
+2018-04-23 09:00:41,156 [   9587]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.webSocket loaded 2 classes 
+2018-04-23 09:00:41,156 [   9587]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 2 classes 
+2018-04-23 09:00:41,156 [   9587]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.osgi loaded 1 classes 
+2018-04-23 09:00:41,156 [   9587]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.websocket loaded 1 classes 
+2018-04-23 09:00:41,156 [   9587]   INFO - llij.ide.plugins.PluginManager - ByteCodeViewer loaded 1 classes 
+2018-04-23 09:00:41,156 [   9587]   INFO - llij.ide.plugins.PluginManager - ch.docksnet.rgraph loaded 1 classes 
+2018-04-23 09:00:42,213 [  10644]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@304c8811 
+2018-04-23 09:00:42,222 [  10653]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-04-23 09:00:42,225 [  10656]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-04-23 09:00:42,488 [  10919]   INFO - CompilerWorkspaceConfiguration - Available processors: 8 
+2018-04-23 09:00:42,499 [  10930]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-04-23 09:00:42,499 [  10930]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/user/IdeaProjects/intellij-plugin-save-actions] 
+2018-04-23 09:00:43,697 [  12128]   INFO - ellij.project.impl.ProjectImpl - 189 project components initialized in 2011 ms 
+2018-04-23 09:00:44,020 [  12451]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@7393832b 
+2018-04-23 09:00:44,598 [  13029]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@36ad2390 
+2018-04-23 09:00:44,613 [  13044]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@5e5d414d 
+2018-04-23 09:00:45,824 [  14255]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 2126 ms 
+2018-04-23 09:00:46,018 [  14449]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-04-23 09:00:46,117 [  14548]   WARN - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2018-04-23 09:00:46,414 [  14845]   INFO - ntellij.internal.IconsLoadTime - PNG load time: total=50,40ms, average=0,50ms, median=2,04ms; number of icons: 100 
+2018-04-23 09:00:46,533 [  14964]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-04-23 09:00:46,974 [  15405]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@4adb05be 
+2018-04-23 09:00:46,977 [  15408]   INFO - ntellij.internal.IconsLoadTime - PNG load time: ide_startup=55,37ms, average=0,49ms, median=0,50ms; number of icons: 113 
+2018-04-23 09:00:47,009 [  15440]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 25 ms 
+2018-04-23 09:00:47,092 [  15523]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 116ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:00:47,268 [  15699]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 174ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:00:47,402 [  15833]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2018-04-23 09:00:47,445 [  15876]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:00:47,452 [  15883]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/intellij-plugin-save-actions' save-actions 
+2018-04-23 09:00:48,873 [  17304]   INFO - j.ide.ui.OptionsTopHitProvider - 467 ms spent to cache options in project 
+2018-04-23 09:00:50,791 [  19222]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 3811ms under project opening modal progress 
+2018-04-23 09:00:50,833 [  19264]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 3 millis 
+2018-04-23 09:00:50,879 [  19310]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 3940ms; general responsiveness: ok; EDT responsiveness: 1/4 sluggish 
+2018-04-23 09:00:51,944 [  20375]   INFO - ellij.project.impl.ProjectImpl - 189 project components initialized in 659 ms 
+2018-04-23 09:00:51,951 [  20382]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 6 ms 
+2018-04-23 09:00:52,234 [  20665]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-04-23 09:00:53,105 [  21536]   INFO - ntellij.internal.IconsLoadTime - PNG load time: ide_startup=96,98ms, average=0,47ms, median=1,34ms; number of icons: 205 
+2018-04-23 09:00:53,774 [  22205]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@3e4f7c44 
+2018-04-23 09:00:53,776 [  22207]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 2ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:00:53,790 [  22221]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 14ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:00:53,851 [  22282]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-04-23 09:00:53,900 [  22331]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2018-04-23 09:00:53,994 [  22425]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 889ms under project opening modal progress 
+2018-04-23 09:00:53,996 [  22427]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 0 millis 
+2018-04-23 09:00:53,998 [  22429]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 893ms; general responsiveness: ok; EDT responsiveness: 0/1 sluggish, 1/1 very slow 
+2018-04-23 09:00:54,051 [  22482]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:00:54,053 [  22484]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/goprojects/untitled2' untitled2 
+2018-04-23 09:00:54,286 [  22717]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start create === 
+2018-04-23 09:00:54,596 [  23027]   INFO - j.ide.ui.OptionsTopHitProvider - 110 ms spent to cache options in project 
+2018-04-23 09:00:54,722 [  23153]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-04-23 09:00:54,723 [  23154]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/user/IdeaProjects/testcpuandmemlimitfordocker] 
+2018-04-23 09:00:54,906 [  23337]   INFO - ellij.project.impl.ProjectImpl - 189 project components initialized in 240 ms 
+2018-04-23 09:00:54,923 [  23354]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 17 ms 
+2018-04-23 09:00:55,196 [  23627]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-04-23 09:00:55,528 [  23959]   INFO - ntellij.internal.IconsLoadTime - PNG load time: ide_startup=104,31ms, average=0,47ms, median=0,94ms; number of icons: 224 
+2018-04-23 09:00:55,659 [  24090]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@56facf1c 
+2018-04-23 09:00:55,663 [  24094]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 3ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:00:55,722 [  24153]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-04-23 09:00:56,153 [  24584]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 625ms under project opening modal progress 
+2018-04-23 09:00:56,156 [  24587]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 0 millis 
+2018-04-23 09:00:56,158 [  24589]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 631ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:00:56,710 [  25141]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-04-23 09:00:56,711 [  25142]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>] 
+2018-04-23 09:00:56,873 [  25304]   INFO - ellij.project.impl.ProjectImpl - 189 project components initialized in 274 ms 
+2018-04-23 09:00:56,930 [  25361]   INFO - le.impl.ModuleManagerComponent - 3 module(s) loaded in 57 ms 
+2018-04-23 09:00:57,212 [  25643]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1549ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2018-04-23 09:00:57,442 [  25873]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-04-23 09:00:57,644 [  26075]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2018-04-23 09:00:58,088 [  26519]   INFO - ntellij.internal.IconsLoadTime - PNG load time: ide_startup=109,77ms, average=0,47ms, median=0,31ms; number of icons: 232 
+2018-04-23 09:00:58,089 [  26520]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:00:58,090 [  26521]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/testcpuandmemlimitfordocker' testcpuandmemlimitfordocker 
+2018-04-23 09:00:58,107 [  26538]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start create === 
+2018-04-23 09:00:58,235 [  26666]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@5633ec01 
+2018-04-23 09:00:58,275 [  26706]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 40ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:00:58,716 [  27147]   INFO - j.ide.ui.OptionsTopHitProvider - 183 ms spent to cache options in project 
+2018-04-23 09:00:58,880 [  27311]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$PruneTask@4ba89cdf 
+2018-04-23 09:00:59,000 [  27431]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$ManageLruProjectFilesTask@406b815e 
+2018-04-23 09:00:59,238 [  27669]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:00:59,238 [  27669]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/testcpuandmemlimitfordocker' testcpuandmemlimitfordocker 
+2018-04-23 09:00:59,651 [  28082]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRegistry$PopulateCachesTask@5e69bd50 
+2018-04-23 09:01:00,048 [  28479]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:00,050 [  28481]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/testcpuandmemlimitfordocker' testcpuandmemlimitfordocker 
+2018-04-23 09:01:00,333 [  28764]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-04-23 09:01:01,153 [  29584]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 3065ms under project opening modal progress 
+2018-04-23 09:01:01,470 [  29901]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 281 millis 
+2018-04-23 09:01:01,480 [  29911]   INFO - tartup.impl.StartupManagerImpl - ExternalSystemStartupActivity run in 326ms under project opening modal progress 
+2018-04-23 09:01:01,482 [  29913]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 3395ms; general responsiveness: ok; EDT responsiveness: 1/4 sluggish 
+2018-04-23 09:01:01,842 [  30273]   INFO - ellij.project.impl.ProjectImpl - 189 project components initialized in 222 ms 
+2018-04-23 09:01:01,852 [  30283]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 9 ms 
+2018-04-23 09:01:01,949 [  30380]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3674ms; general responsiveness: ok; EDT responsiveness: 1/4 sluggish 
+2018-04-23 09:01:02,062 [  30493]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-04-23 09:01:02,136 [  30567]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2018-04-23 09:01:02,456 [  30887]   INFO - ntellij.internal.IconsLoadTime - PNG load time: ide_startup=111,79ms, average=0,47ms, median=0,67ms; number of icons: 236 
+2018-04-23 09:01:02,462 [  30893]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:02,462 [  30893]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/jetbrains-open-in-git-host/jetbrains-open-in-git-host.ipr' jetbrains-open-in-git-host 
+2018-04-23 09:01:02,503 [  30934]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start create === 
+2018-04-23 09:01:02,698 [  31129]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@381b9e09 
+2018-04-23 09:01:02,700 [  31131]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 2ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:01:02,746 [  31177]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 46ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:01:02,864 [  31295]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2018-04-23 09:01:03,180 [  31611]   INFO - j.ide.ui.OptionsTopHitProvider - 113 ms spent to cache options in project 
+2018-04-23 09:01:03,294 [  31725]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$PruneTask@3c02f9d8 
+2018-04-23 09:01:03,302 [  31733]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:03,302 [  31733]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/test' test 
+2018-04-23 09:01:03,306 [  31737]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-04-23 09:01:03,378 [  31809]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$ManageLruProjectFilesTask@16ed892f 
+2018-04-23 09:01:03,388 [  31819]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 932ms under project opening modal progress 
+2018-04-23 09:01:03,391 [  31822]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 0 millis 
+2018-04-23 09:01:03,395 [  31826]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 940ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2018-04-23 09:01:03,794 [  32225]   INFO - j.ide.ui.OptionsTopHitProvider - 94 ms spent to cache options in project 
+2018-04-23 09:01:03,799 [  32230]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:03,799 [  32230]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/jetbrains-open-in-git-host/jetbrains-open-in-git-host.ipr' jetbrains-open-in-git-host 
+2018-04-23 09:01:03,824 [  32255]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start create === 
+2018-04-23 09:01:04,070 [  32501]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-04-23 09:01:04,070 [  32501]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/user/JAX2018/workshop] 
+2018-04-23 09:01:04,146 [  32577]   INFO - ellij.project.impl.ProjectImpl - 189 project components initialized in 210 ms 
+2018-04-23 09:01:04,293 [  32724]   INFO - le.impl.ModuleManagerComponent - 7 module(s) loaded in 146 ms 
+2018-04-23 09:01:04,680 [  33111]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-04-23 09:01:04,968 [  33399]   INFO - ntellij.internal.IconsLoadTime - PNG load time: ide_startup=114,12ms, average=0,47ms, median=0,30ms; number of icons: 241 
+2018-04-23 09:01:05,049 [  33480]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@59e67305 
+2018-04-23 09:01:05,068 [  33499]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 18ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:01:05,127 [  33558]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 159ms under project opening modal progress 
+2018-04-23 09:01:05,129 [  33560]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 0 millis 
+2018-04-23 09:01:05,132 [  33563]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 165ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-04-23 09:01:05,308 [  33739]   INFO - cloudConfig.CloudConfigManager - === StatusBar.update create === 
+2018-04-23 09:01:05,309 [  33740]   INFO - cloudConfig.CloudConfigManager - === StatusBar.update create === 
+2018-04-23 09:01:05,310 [  33741]   INFO - cloudConfig.CloudConfigManager - === End.updateInitStatus === 
+2018-04-23 09:01:05,638 [  34069]   INFO - j.ide.ui.OptionsTopHitProvider - 129 ms spent to cache options in application 
+2018-04-23 09:01:05,686 [  34117]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start another widget: com.intellij.cloudConfig.StatusBarInfoManager$InfoComponent@634220cf === 
+2018-04-23 09:01:05,715 [  34146]   INFO - tartup.impl.StartupManagerImpl - /Users/user/IdeaProjects/intellij-plugin-save-actions/.idea case-sensitivity: expected=false actual=false 
+2018-04-23 09:01:05,883 [  34314]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/user/IdeaProjects/intellij-plugin-save-actions] 
+2018-04-23 09:01:06,531 [  34962]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1463ms; general responsiveness: ok; EDT responsiveness: 1/2 sluggish 
+2018-04-23 09:01:06,648 [  35079]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2018-04-23 09:01:06,672 [  35103]   INFO - tartup.impl.StartupManagerImpl - /Users/user/goprojects/untitled2/.idea case-sensitivity: expected=false actual=false 
+2018-04-23 09:01:06,673 [  35104]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-04-23 09:01:06,767 [  35198]   INFO - tartup.impl.StartupManagerImpl - /Users/user/IdeaProjects/testcpuandmemlimitfordocker/.idea case-sensitivity: expected=false actual=false 
+2018-04-23 09:01:06,784 [  35215]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/user/IdeaProjects/testcpuandmemlimitfordocker] 
+2018-04-23 09:01:06,839 [  35270]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$PruneTask@57d58467 
+2018-04-23 09:01:07,021 [  35452]  ERROR - jediterm.terminal.TerminalMode - Mode EightBitInput is not implemented, setting to true 
+2018-04-23 09:01:07,078 [  35509]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$ManageLruProjectFilesTask@1f5497c2 
+2018-04-23 09:01:07,317 [  35748]   INFO - tartup.impl.StartupManagerImpl - /Users/user/IdeaProjects/jetbrains-open-in-git-host/jetbrains-open-in-git-host.ipr case-sensitivity: expected=false actual=false 
+2018-04-23 09:01:07,495 [  35926]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [<Project>] 
+2018-04-23 09:01:07,822 [  36253]   INFO - tartup.impl.StartupManagerImpl - /Users/user/IdeaProjects/test/.idea case-sensitivity: expected=false actual=false 
+2018-04-23 09:01:07,824 [  36255]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-04-23 09:01:08,006 [  36437]   INFO - tartup.impl.StartupManagerImpl - /Users/user/JAX2018/workshop/.idea case-sensitivity: expected=false actual=false 
+2018-04-23 09:01:08,022 [  36453]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/Users/user/JAX2018/workshop] 
+2018-04-23 09:01:08,022 [  36453]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRegistry$PopulateCachesTask@26f0862a 
+2018-04-23 09:01:08,026 [  36457]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$PruneTask@7fb86ad2 
+2018-04-23 09:01:08,222 [  36653]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$ManageLruProjectFilesTask@620f5f4e 
+2018-04-23 09:01:08,289 [  36720]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$PruneTask@5cc5e0fc 
+2018-04-23 09:01:08,589 [  37020]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$ManageLruProjectFilesTask@138df8ca 
+2018-04-23 09:01:08,873 [  37304]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 27332 ms 
+2018-04-23 09:01:08,873 [  37304]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.kotlin loaded 2879 classes 
+2018-04-23 09:01:08,873 [  37304]   INFO - llij.ide.plugins.PluginManager - com.intellij.database loaded 1431 classes 
+2018-04-23 09:01:08,873 [  37304]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.android loaded 1406 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - JRebelAndroidPlugin loaded 1351 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - JRebelPlugin loaded 1090 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1011 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 958 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - org.intellij.groovy loaded 622 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee loaded 531 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven loaded 377 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring loaded 331 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - nl.rubensten.texifyidea loaded 219 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 199 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.uiDesigner loaded 185 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 184 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - mobi.hsz.idea.gitignore loaded 153 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.gradle loaded 148 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsf loaded 139 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 136 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.gwt loaded 119 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 116 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - DevKit loaded 115 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.freemarker loaded 106 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 99 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - Java EE: Web Services (JAX-WS) loaded 98 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.boot loaded 97 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.debugger.streams loaded 90 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 90 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 80 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 79 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.properties loaded 76 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.tapestry loaded 72 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.velocity loaded 71 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 71 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.hibernate loaded 69 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 66 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - com.intellij.aop loaded 62 classes 
+2018-04-23 09:01:08,874 [  37305]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 59 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 58 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 51 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 50 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.cdi loaded 47 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.guice loaded 46 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restWebServices loaded 46 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.integration loaded 45 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 44 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.mvc loaded 39 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.thymeleaf loaded 39 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 38 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - AntSupport loaded 38 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - TestNG-J loaded 38 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.drools loaded 37 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - org.asciidoctor.intellij.asciidoc loaded 37 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.data loaded 34 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 34 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 33 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 31 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.ws loaded 29 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 29 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 27 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 27 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 27 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.jboss.arquillian loaded 27 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 26 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.persistence loaded 26 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.webflow loaded 24 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.beanValidation loaded 22 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 22 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.security loaded 21 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.batch loaded 20 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.dsm loaded 20 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 19 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - JUnit loaded 18 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.view loaded 18 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - YourKit Java Profiler 2017.02-b75 Integration loaded 17 classes 
+2018-04-23 09:01:08,875 [  37306]   INFO - llij.ide.plugins.PluginManager - com.intellij.appengine loaded 16 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - Key Promoter X loaded 15 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - tslint loaded 13 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 13 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.websocket loaded 12 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - Jetty loaded 11 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.java-i18n loaded 11 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - FrameSwitcher loaded 11 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.webSocket loaded 10 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - Tomcat loaded 9 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 8 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - ch.docksnet.rgraph loaded 8 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.extensions loaded 7 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.dubreuia loaded 7 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - de.imgruntw.plugin.datetimeconverter loaded 7 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.github.b3er.idea.plugins.arc.browser loaded 7 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 7 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 6 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 6 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.vaadin loaded 5 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 5 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - SequenceDiagram loaded 5 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - cucumber-java loaded 5 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.osgi loaded 4 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.batch loaded 4 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.intellij.frameworks.reactor loaded 4 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 4 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - XSLT-Debugger loaded 3 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - Emma loaded 1 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - W3Validators loaded 1 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - ByteCodeViewer loaded 1 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven.ext loaded 1 classes 
+2018-04-23 09:01:08,876 [  37307]   INFO - llij.ide.plugins.PluginManager - io.gulp.intellij loaded 1 classes 
+2018-04-23 09:01:09,402 [  37833]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 18141 ms 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.kotlin loaded 2897 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - com.intellij.database loaded 1434 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.android loaded 1407 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - JRebelAndroidPlugin loaded 1351 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - JRebelPlugin loaded 1090 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1043 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 958 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - org.intellij.groovy loaded 641 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee loaded 545 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven loaded 387 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring loaded 348 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - nl.rubensten.texifyidea loaded 236 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 206 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - com.intellij.uiDesigner loaded 188 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 184 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - mobi.hsz.idea.gitignore loaded 153 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.gradle loaded 148 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsf loaded 140 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 139 classes 
+2018-04-23 09:01:09,403 [  37834]   INFO - llij.ide.plugins.PluginManager - com.intellij.gwt loaded 130 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - DevKit loaded 120 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 118 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.freemarker loaded 106 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - Java EE: Web Services (JAX-WS) loaded 100 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.boot loaded 100 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 99 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.debugger.streams loaded 90 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 90 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.properties loaded 80 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 80 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 79 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.tapestry loaded 73 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.velocity loaded 72 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 71 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.hibernate loaded 70 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 66 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.aop loaded 64 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 60 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 59 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 51 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 50 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 50 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.cdi loaded 49 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restWebServices loaded 48 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.guice loaded 47 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.integration loaded 47 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.mvc loaded 41 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - AntSupport loaded 40 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - TestNG-J loaded 40 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.thymeleaf loaded 39 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 38 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.drools loaded 37 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - org.asciidoctor.intellij.asciidoc loaded 37 classes 
+2018-04-23 09:01:09,404 [  37835]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.data loaded 35 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 34 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 33 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.ws loaded 31 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 31 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 30 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 29 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.jboss.arquillian loaded 29 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 27 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 27 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 26 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.persistence loaded 26 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.webflow loaded 25 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.beanValidation loaded 22 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 22 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.security loaded 21 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.batch loaded 20 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - JUnit loaded 20 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.dsm loaded 20 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 19 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.view loaded 18 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - YourKit Java Profiler 2017.02-b75 Integration loaded 17 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - com.intellij.appengine loaded 16 classes 
+2018-04-23 09:01:09,405 [  37836]   INFO - llij.ide.plugins.PluginManager - Key Promoter X loaded 15 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - tslint loaded 13 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 13 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.webSocket loaded 13 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.java-i18n loaded 12 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.websocket loaded 12 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - Jetty loaded 11 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - FrameSwitcher loaded 11 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - Tomcat loaded 9 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 8 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - ch.docksnet.rgraph loaded 8 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.extensions loaded 7 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.dubreuia loaded 7 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - de.imgruntw.plugin.datetimeconverter loaded 7 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.github.b3er.idea.plugins.arc.browser loaded 7 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 7 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.vaadin loaded 6 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 6 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 6 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - cucumber-java loaded 6 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 5 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - SequenceDiagram loaded 5 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.frameworks.reactor loaded 5 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.osgi loaded 4 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.batch loaded 4 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 4 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - XSLT-Debugger loaded 3 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - Emma loaded 1 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - W3Validators loaded 1 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - ByteCodeViewer loaded 1 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven.ext loaded 1 classes 
+2018-04-23 09:01:09,406 [  37837]   INFO - llij.ide.plugins.PluginManager - io.gulp.intellij loaded 1 classes 
+2018-04-23 09:01:09,627 [  38058]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 15011 ms 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.kotlin loaded 2915 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.database loaded 1436 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.android loaded 1410 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - JRebelAndroidPlugin loaded 1351 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - JRebelPlugin loaded 1090 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1056 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 958 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - org.intellij.groovy loaded 643 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee loaded 549 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven loaded 387 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring loaded 357 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - nl.rubensten.texifyidea loaded 251 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 207 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 188 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.uiDesigner loaded 188 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - mobi.hsz.idea.gitignore loaded 159 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.gradle loaded 148 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 142 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsf loaded 140 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.gwt loaded 133 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - DevKit loaded 123 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 119 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.freemarker loaded 109 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 100 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - Java EE: Web Services (JAX-WS) loaded 100 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.boot loaded 100 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.debugger.streams loaded 90 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 90 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.intellij.properties loaded 80 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 80 classes 
+2018-04-23 09:01:09,628 [  38059]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 79 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.velocity loaded 73 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.tapestry loaded 73 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 72 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.hibernate loaded 70 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 66 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.aop loaded 64 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 61 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 59 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 51 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 51 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 50 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restWebServices loaded 50 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.guice loaded 49 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.cdi loaded 49 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.integration loaded 47 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.mvc loaded 41 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - AntSupport loaded 40 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.thymeleaf loaded 40 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - TestNG-J loaded 40 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 38 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.drools loaded 37 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - org.asciidoctor.intellij.asciidoc loaded 37 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.data loaded 35 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 34 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 33 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.ws loaded 31 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 31 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 30 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 29 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.jboss.arquillian loaded 29 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 27 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 27 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 27 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.persistence loaded 26 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.webflow loaded 25 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.beanValidation loaded 22 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 22 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.security loaded 21 classes 
+2018-04-23 09:01:09,629 [  38060]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.batch loaded 20 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - JUnit loaded 20 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.dsm loaded 20 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 19 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.view loaded 18 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - YourKit Java Profiler 2017.02-b75 Integration loaded 17 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.appengine loaded 16 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - Key Promoter X loaded 15 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.java-i18n loaded 15 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - tslint loaded 13 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 13 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.webSocket loaded 13 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.websocket loaded 12 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - Jetty loaded 11 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - FrameSwitcher loaded 11 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - Tomcat loaded 9 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 8 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - ch.docksnet.rgraph loaded 8 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.extensions loaded 7 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.dubreuia loaded 7 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - de.imgruntw.plugin.datetimeconverter loaded 7 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.github.b3er.idea.plugins.arc.browser loaded 7 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 7 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.vaadin loaded 6 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 6 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 6 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - cucumber-java loaded 6 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 5 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - SequenceDiagram loaded 5 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.frameworks.reactor loaded 5 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.osgi loaded 4 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.batch loaded 4 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 4 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - XSLT-Debugger loaded 3 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - Emma loaded 1 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - W3Validators loaded 1 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - ByteCodeViewer loaded 1 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven.ext loaded 1 classes 
+2018-04-23 09:01:09,630 [  38061]   INFO - llij.ide.plugins.PluginManager - io.gulp.intellij loaded 1 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 13473 ms 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.kotlin loaded 2958 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - com.intellij.database loaded 1451 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.android loaded 1414 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - JRebelAndroidPlugin loaded 1351 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - JRebelPlugin loaded 1090 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1075 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 958 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - org.intellij.groovy loaded 657 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee loaded 563 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven loaded 388 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring loaded 370 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - nl.rubensten.texifyidea loaded 309 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 212 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - com.intellij.uiDesigner loaded 189 classes 
+2018-04-23 09:01:09,982 [  38413]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 188 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - mobi.hsz.idea.gitignore loaded 160 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsf loaded 150 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.gradle loaded 148 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 144 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.gwt loaded 137 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - DevKit loaded 125 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 121 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.freemarker loaded 109 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - Java EE: Web Services (JAX-WS) loaded 102 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 101 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.boot loaded 100 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.debugger.streams loaded 90 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 90 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.properties loaded 80 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 80 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 79 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.tapestry loaded 74 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.velocity loaded 73 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 73 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.hibernate loaded 72 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.aop loaded 67 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 66 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 62 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 59 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.cdi loaded 56 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restWebServices loaded 54 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.guice loaded 51 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 51 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.thymeleaf loaded 51 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 51 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 50 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.integration loaded 49 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.asciidoctor.intellij.asciidoc loaded 43 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.mvc loaded 42 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - AntSupport loaded 40 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - TestNG-J loaded 40 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 38 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.drools loaded 38 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.data loaded 37 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 34 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 33 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.ws loaded 32 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.jboss.arquillian loaded 32 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 31 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 31 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 29 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 28 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.persistence loaded 28 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 27 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 27 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.webflow loaded 27 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.security loaded 25 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.beanValidation loaded 23 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.batch loaded 22 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 22 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - JUnit loaded 21 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.dsm loaded 20 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 19 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.view loaded 18 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.appengine loaded 17 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - YourKit Java Profiler 2017.02-b75 Integration loaded 17 classes 
+2018-04-23 09:01:09,983 [  38414]   INFO - llij.ide.plugins.PluginManager - com.intellij.java-i18n loaded 16 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - Key Promoter X loaded 15 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.webSocket loaded 15 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.extensions loaded 14 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - tslint loaded 13 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 13 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.websocket loaded 12 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - Jetty loaded 11 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - FrameSwitcher loaded 11 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - Tomcat loaded 9 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 8 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - ch.docksnet.rgraph loaded 8 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.intellij.vaadin loaded 7 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.dubreuia loaded 7 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - de.imgruntw.plugin.datetimeconverter loaded 7 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.github.b3er.idea.plugins.arc.browser loaded 7 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 7 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 6 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 6 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - cucumber-java loaded 6 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.osgi loaded 5 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 5 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - SequenceDiagram loaded 5 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.batch loaded 5 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.intellij.frameworks.reactor loaded 5 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 4 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - XSLT-Debugger loaded 3 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - Emma loaded 1 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - W3Validators loaded 1 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - ByteCodeViewer loaded 1 classes 
+2018-04-23 09:01:09,984 [  38415]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven.ext loaded 1 classes 
+2018-04-23 09:01:09,985 [  38416]   INFO - llij.ide.plugins.PluginManager - io.gulp.intellij loaded 1 classes 
+2018-04-23 09:01:10,090 [  38521]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 8522 ms 
+2018-04-23 09:01:10,091 [  38522]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.kotlin loaded 3028 classes 
+2018-04-23 09:01:10,091 [  38522]   INFO - llij.ide.plugins.PluginManager - com.intellij.database loaded 1452 classes 
+2018-04-23 09:01:10,091 [  38522]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.android loaded 1416 classes 
+2018-04-23 09:01:10,091 [  38522]   INFO - llij.ide.plugins.PluginManager - JRebelAndroidPlugin loaded 1351 classes 
+2018-04-23 09:01:10,091 [  38522]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1143 classes 
+2018-04-23 09:01:10,091 [  38522]   INFO - llij.ide.plugins.PluginManager - JRebelPlugin loaded 1090 classes 
+2018-04-23 09:01:10,091 [  38522]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 958 classes 
+2018-04-23 09:01:10,091 [  38522]   INFO - llij.ide.plugins.PluginManager - org.intellij.groovy loaded 696 classes 
+2018-04-23 09:01:10,091 [  38522]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee loaded 574 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven loaded 388 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring loaded 370 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - nl.rubensten.texifyidea loaded 309 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 226 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.uiDesigner loaded 190 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 188 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - mobi.hsz.idea.gitignore loaded 162 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 152 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsf loaded 150 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.gradle loaded 148 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.gwt loaded 138 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - DevKit loaded 127 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 122 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.freemarker loaded 113 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 106 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - Java EE: Web Services (JAX-WS) loaded 105 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.boot loaded 100 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.debugger.streams loaded 90 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 90 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.properties loaded 82 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 80 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 79 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.tapestry loaded 75 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.velocity loaded 74 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 74 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.hibernate loaded 72 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.aop loaded 69 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 66 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 62 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 62 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.guice loaded 61 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.cdi loaded 56 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restWebServices loaded 56 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 54 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - com.intellij.thymeleaf loaded 52 classes 
+2018-04-23 09:01:10,092 [  38523]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 51 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 50 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.integration loaded 49 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.asciidoctor.intellij.asciidoc loaded 43 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.mvc loaded 42 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - AntSupport loaded 40 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - TestNG-J loaded 40 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.drools loaded 39 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 38 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.data loaded 37 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 37 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 34 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 33 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.ws loaded 32 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.jboss.arquillian loaded 32 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 31 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 29 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 29 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.persistence loaded 28 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 27 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 27 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.webflow loaded 27 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.security loaded 25 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.beanValidation loaded 24 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 23 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.batch loaded 22 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - JUnit loaded 21 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.dsm loaded 20 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 19 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.view loaded 18 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.java-i18n loaded 17 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.appengine loaded 17 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - YourKit Java Profiler 2017.02-b75 Integration loaded 17 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - Key Promoter X loaded 15 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.webSocket loaded 15 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.extensions loaded 14 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - tslint loaded 13 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 13 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.websocket loaded 12 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - Jetty loaded 11 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - FrameSwitcher loaded 11 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - Tomcat loaded 9 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 8 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - ch.docksnet.rgraph loaded 8 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - cucumber-java loaded 8 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.vaadin loaded 7 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.dubreuia loaded 7 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - de.imgruntw.plugin.datetimeconverter loaded 7 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.github.b3er.idea.plugins.arc.browser loaded 7 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 7 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 6 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - com.intellij.frameworks.reactor loaded 6 classes 
+2018-04-23 09:01:10,093 [  38524]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 6 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.osgi loaded 5 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 5 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - SequenceDiagram loaded 5 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.batch loaded 5 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 4 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - XSLT-Debugger loaded 3 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - Emma loaded 1 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - W3Validators loaded 1 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - ByteCodeViewer loaded 1 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven.ext loaded 1 classes 
+2018-04-23 09:01:10,094 [  38525]   INFO - llij.ide.plugins.PluginManager - io.gulp.intellij loaded 1 classes 
+2018-04-23 09:01:11,220 [  39651]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 7338 ms 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.kotlin loaded 3078 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - com.intellij.database loaded 1452 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.android loaded 1418 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - JRebelAndroidPlugin loaded 1351 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1192 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - JRebelPlugin loaded 1101 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 959 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - org.intellij.groovy loaded 717 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee loaded 580 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven loaded 402 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring loaded 374 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - nl.rubensten.texifyidea loaded 309 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 238 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - com.intellij.uiDesigner loaded 191 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 188 classes 
+2018-04-23 09:01:11,221 [  39652]   INFO - llij.ide.plugins.PluginManager - mobi.hsz.idea.gitignore loaded 164 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 155 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsf loaded 150 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.gradle loaded 149 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.gwt loaded 138 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - DevKit loaded 127 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 125 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.freemarker loaded 116 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 108 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - Java EE: Web Services (JAX-WS) loaded 105 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.boot loaded 100 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.debugger.streams loaded 90 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 90 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.properties loaded 83 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 80 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 79 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 76 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.tapestry loaded 75 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.velocity loaded 74 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.aop loaded 73 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.hibernate loaded 72 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.guice loaded 70 classes 
+2018-04-23 09:01:11,222 [  39653]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 66 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 64 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 62 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 58 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.intellij.cdi loaded 56 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restWebServices loaded 56 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.intellij.thymeleaf loaded 55 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 51 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 50 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.integration loaded 49 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - org.asciidoctor.intellij.asciidoc loaded 44 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.mvc loaded 42 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - TestNG-J loaded 42 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - AntSupport loaded 40 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.intellij.drools loaded 39 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 38 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 38 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.data loaded 37 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 34 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 33 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.ws loaded 32 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - com.intellij.jboss.arquillian loaded 32 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 31 classes 
+2018-04-23 09:01:11,223 [  39654]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 29 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 29 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.persistence loaded 28 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 27 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - Coverage loaded 27 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.webflow loaded 27 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.security loaded 25 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.beanValidation loaded 24 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 23 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.batch loaded 22 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - JUnit loaded 21 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.dsm loaded 20 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 19 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.view loaded 18 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.java-i18n loaded 17 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - com.intellij.appengine loaded 17 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - YourKit Java Profiler 2017.02-b75 Integration loaded 17 classes 
+2018-04-23 09:01:11,224 [  39655]   INFO - llij.ide.plugins.PluginManager - Key Promoter X loaded 15 classes 
+2018-04-23 09:01:11,225 [  39656]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.webSocket loaded 15 classes 
+2018-04-23 09:01:11,225 [  39656]   INFO - llij.ide.plugins.PluginManager - com.intellij.javaee.extensions loaded 14 classes 
+2018-04-23 09:01:11,225 [  39656]   INFO - llij.ide.plugins.PluginManager - tslint loaded 13 classes 
+2018-04-23 09:01:11,225 [  39656]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 13 classes 
+2018-04-23 09:01:11,225 [  39656]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.websocket loaded 12 classes 
+2018-04-23 09:01:11,225 [  39656]   INFO - llij.ide.plugins.PluginManager - Jetty loaded 11 classes 
+2018-04-23 09:01:11,225 [  39656]   INFO - llij.ide.plugins.PluginManager - FrameSwitcher loaded 11 classes 
+2018-04-23 09:01:11,225 [  39656]   INFO - llij.ide.plugins.PluginManager - Tomcat loaded 9 classes 
+2018-04-23 09:01:11,225 [  39656]   INFO - llij.ide.plugins.PluginManager - cucumber-java loaded 9 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 8 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - ch.docksnet.rgraph loaded 8 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - com.intellij.vaadin loaded 7 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - com.dubreuia loaded 7 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - de.imgruntw.plugin.datetimeconverter loaded 7 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - com.github.b3er.idea.plugins.arc.browser loaded 7 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 7 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.java.decompiler loaded 6 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - com.intellij.frameworks.reactor loaded 6 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 6 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.osgi loaded 5 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 5 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - SequenceDiagram loaded 5 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - com.intellij.spring.batch loaded 5 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - com.android.tools.idea.smali loaded 4 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - XSLT-Debugger loaded 3 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - Emma loaded 1 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - W3Validators loaded 1 classes 
+2018-04-23 09:01:11,226 [  39657]   INFO - llij.ide.plugins.PluginManager - ByteCodeViewer loaded 1 classes 
+2018-04-23 09:01:11,227 [  39658]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.idea.maven.ext loaded 1 classes 
+2018-04-23 09:01:11,227 [  39658]   INFO - llij.ide.plugins.PluginManager - io.gulp.intellij loaded 1 classes 
+2018-04-23 09:01:12,751 [  41182]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:12,752 [  41183]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/JAX2018/workshop' aws-excercises 
+2018-04-23 09:01:12,760 [  41191]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start another widget: com.intellij.cloudConfig.StatusBarInfoManager$InfoComponent@20050d9a === 
+2018-04-23 09:01:12,834 [  41265]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:12,835 [  41266]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/goprojects/untitled2' untitled2 
+2018-04-23 09:01:12,837 [  41268]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:12,838 [  41269]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/jetbrains-open-in-git-host/jetbrains-open-in-git-host.ipr' jetbrains-open-in-git-host 
+2018-04-23 09:01:12,923 [  41354]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:12,923 [  41354]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/test' test 
+2018-04-23 09:01:12,925 [  41356]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:12,925 [  41356]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/intellij-plugin-save-actions' save-actions 
+2018-04-23 09:01:13,182 [  41613]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-04-23 09:01:13,196 [  41627]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home 
+2018-04-23 09:01:13,203 [  41634]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinInitScript] using cp: /Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-core-4.0.jar:/Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/kotlin-stdlib-1.1.0.jar 
+2018-04-23 09:01:13,208 [  41639]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home 
+2018-04-23 09:01:13,209 [  41640]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinSettingsScript] using cp: /Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-core-4.0.jar:/Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/kotlin-stdlib-1.1.0.jar 
+2018-04-23 09:01:13,214 [  41645]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home 
+2018-04-23 09:01:13,215 [  41646]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.kotlin.dsl.KotlinBuildScript] using cp: /Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-core-4.0.jar:/Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/kotlin-stdlib-1.1.0.jar 
+2018-04-23 09:01:13,220 [  41651]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home 
+2018-04-23 09:01:13,220 [  41651]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [org.gradle.script.lang.kotlin.KotlinBuildScript] using cp: /Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-script-kotlin-compiler-plugin-0.9.0.jar:/Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-script-kotlin-tooling-builders-0.9.0.jar:/Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-script-kotlin-tooling-models-0.9.0.jar:/Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-core-4.0.jar:/Users/user/.gradle/wrapper/dists/gradle-4.0-all/ac27o8rbd0ic8ih41or9l32mv/gradle-4.0/lib/gradle-script-kotlin-0.9.0.jar 
+2018-04-23 09:01:13,378 [  41809]   INFO - j.ide.ui.OptionsTopHitProvider - 122 ms spent to cache options in project 
+2018-04-23 09:01:13,407 [  41838]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$PruneTask@6dfbb47e 
+2018-04-23 09:01:13,459 [  41890]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRegistry$PopulateCachesTask@258a617b 
+2018-04-23 09:01:13,489 [  41920]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRepositoryFileCacheImpl$ManageLruProjectFilesTask@f7b8469 
+2018-04-23 09:01:13,639 [  42070]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:13,639 [  42070]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/goprojects/untitled2' untitled2 
+2018-04-23 09:01:13,729 [  42160]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRegistry$PopulateCachesTask@51f2e0c6 
+2018-04-23 09:01:13,837 [  42268]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:13,837 [  42268]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/JAX2018/workshop' aws-excercises 
+2018-04-23 09:01:13,840 [  42271]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:13,840 [  42271]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/test' test 
+2018-04-23 09:01:13,858 [  42289]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRegistry$PopulateCachesTask@6c7103bc 
+2018-04-23 09:01:14,005 [  42436]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:14,005 [  42436]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/IdeaProjects/intellij-plugin-save-actions' save-actions 
+2018-04-23 09:01:14,266 [  42697]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.android.tools.idea.res.ResourceFolderRegistry$PopulateCachesTask@59479e23 
+2018-04-23 09:01:14,445 [  42876]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-04-23 09:01:14,454 [  42885]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-04-23 09:01:15,302 [  43733]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 09:01:15,302 [  43733]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/JAX2018/workshop' aws-excercises 
+2018-04-23 09:01:15,843 [  44274]   INFO -       ScriptTemplatesProviders - [kts] loading script definitions [] using cp:  
+2018-04-23 09:02:10,728 [  99159]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-04-23 09:05:37,998 [ 306429]   INFO -              #AgreementUpdater - Error updating privacy policy: www.jetbrains.com 
+2018-04-23 11:01:22,855 [7251286]   INFO -  #git4idea.commands.GitHandler - [workshop] git -c core.quotepath=false -c log.showSignature=false add --ignore-errors -- .idea/inspectionProfiles/Project_Default.xml 
+2018-04-23 11:02:27,152 [7315583]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2018-04-23 11:02:27,631 [7316062]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2018-04-23 11:57:51,197 [10639628]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2018-04-23 12:08:16,930 [11265361]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2018-04-23 12:08:17,106 [11265537]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2018-04-23 12:08:33,232 [11281663]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2018-04-23 12:08:33,583 [11282014]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2018-04-23 12:10:45,456 [11413887]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/00_base/src/main/java/de/openknowledge/sample/cloud/aws/AwsAccount.java] 
+2018-04-23 12:10:45,460 [11413891]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/00_base/src/main/java/de/openknowledge/sample/cloud/aws/AwsAccount.java] 
+2018-04-23 12:10:45,461 [11413892]  DEBUG - ubreuia.core.SaveActionManager - Using default storage 
+2018-04-23 12:11:03,737 [11432168]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2018-04-23 12:11:03,896 [11432327]   INFO - ojectView.impl.ProjectViewTree - getToggleClickCount: -1 for com.intellij.ide.projectView.impl.nodes.ClassTreeNode 
+2018-04-23 12:11:14,474 [11442905]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/00_base/src/main/java/de/openknowledge/sample/cloud/aws/AwsAccount.java] 
+2018-04-23 12:11:14,474 [11442905]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/00_base/src/main/java/de/openknowledge/sample/cloud/aws/AwsAccount.java] 
+2018-04-23 12:11:14,474 [11442905]  DEBUG - ubreuia.core.SaveActionManager - Using default storage 
+2018-04-23 12:11:14,479 [11442910]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/00_base/src/main/java/de/openknowledge/sample/cloud/aws/AwsClientProvider.java] 
+2018-04-23 12:11:14,479 [11442910]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/00_base/src/main/java/de/openknowledge/sample/cloud/aws/AwsClientProvider.java] 
+2018-04-23 12:11:14,479 [11442910]  DEBUG - ubreuia.core.SaveActionManager - Using default storage 
+2018-04-23 12:12:00,270 [11488701]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/00_base/src/main/java/de/openknowledge/sample/cloud/aws/AwsClientProvider.java] 
+2018-04-23 12:12:00,270 [11488701]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/00_base/src/main/java/de/openknowledge/sample/cloud/aws/AwsClientProvider.java] 
+2018-04-23 12:12:00,270 [11488701]  DEBUG - ubreuia.core.SaveActionManager - Using default storage 
+2018-04-23 12:15:43,097 [11711528]   INFO - ij.ide.util.FileStructurePopup - Chosen in file structure popup by prefix 'create': 'createBucket(String): void' 
+2018-04-23 12:21:15,821 [12044252]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$3@5a594ce9 
+2018-04-23 12:21:15,893 [12044324]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2018-04-23 12:21:15,894 [12044325]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/user/JAX2018/workshop' aws-excercises 
+2018-04-23 12:21:18,634 [12047065]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/02_paas/02_01_s3/src/main/java/de/openknowledge/sample/cloud/aws/paas/s3/AwsS3Playground.java] 
+2018-04-23 12:21:18,634 [12047065]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/02_paas/02_01_s3/src/main/java/de/openknowledge/sample/cloud/aws/paas/s3/AwsS3Playground.java] 
+2018-04-23 12:21:18,634 [12047065]  DEBUG - ubreuia.core.SaveActionManager - Using default storage 
+2018-04-23 12:21:44,595 [12073026]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/02_paas/02_01_s3/src/main/java/de/openknowledge/sample/cloud/aws/paas/s3/AwsS3Playground.java] 
+2018-04-23 12:21:44,595 [12073026]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/02_paas/02_01_s3/src/main/java/de/openknowledge/sample/cloud/aws/paas/s3/AwsS3Playground.java] 
+2018-04-23 12:21:44,595 [12073026]  DEBUG - ubreuia.core.SaveActionManager - Using default storage 
+2018-04-23 12:21:59,660 [12088091]   INFO - ij.ide.util.FileStructurePopup - Chosen in file structure popup by prefix 'create': 'createBucket(String): void' 
+2018-04-23 12:24:43,109 [12251540]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/02_paas/02_01_s3/src/main/java/de/openknowledge/sample/cloud/aws/paas/s3/AwsS3Playground.java] 
+2018-04-23 12:24:43,110 [12251541]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/02_paas/02_01_s3/src/main/java/de/openknowledge/sample/cloud/aws/paas/s3/AwsS3Playground.java] 
+2018-04-23 12:24:43,110 [12251541]  DEBUG - ubreuia.core.SaveActionManager - Using default storage 
+2018-04-23 12:25:55,011 [12323442]  DEBUG - ubreuia.core.SaveActionManager - Running SaveActionManager on DocumentImpl[file:///Users/user/JAX2018/workshop/02_paas/02_01_s3/src/main/java/de/openknowledge/sample/cloud/aws/paas/s3/AwsS3Playground.java] 
